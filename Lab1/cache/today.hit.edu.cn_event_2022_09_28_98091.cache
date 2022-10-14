@@ -1,0 +1,805 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 48506
+Connection: keep-alive
+Date: Tue, 04 Oct 2022 10:47:40 GMT
+Server: Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+ETag: "bd7a-5ea20801f72b0"
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+X-Boost-Cache: FULL
+X-Varnish: 604902929
+Age: 0
+Via: 1.1 varnish-v4
+X-Varnish-Cache: MISS
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html  lang="zh-hans" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+<link rel="canonical" href="http://today.hit.edu.cn/event/2022/09/28/98091" />
+<meta name="description" content="无论是学术会议、论文答辩、实验室组会还是工作面试，通常都需要学术人以PTT的形式展示自己的研究。如何制作专业的PPT，做好学术报告呢？本期交流会我们邀请到了仪器学院常笛老师，为大家分享学术PPT制作和答辩技巧。欢迎大家来到本次交流会中，进行一次别开生面的交流探讨。
+
+主讲人简介：常笛，哈尔滨工业大学仪器科学与工程学院助理教授。2016、2022年在哈尔滨工业大学获得工学学士、博士学位。主要从事超精密光栅干涉位移测量研究，在该方向上发表学术论文8篇，授权中国专利3项。2019年获国家留学基金委资助，赴德国联邦物理技术研究院联合培养，2020年获哈尔滨工业大学第三届预留师资博士后资格。" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/sites/today1.prod1.dpweb1.hit.edu.cn/themes/hit_today/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="revision" href="http://today.hit.edu.cn/event/2022/09/28/98091" />
+
+    <title>【因斯图们交流会】仪器学院研究生微沙龙第三十八期活动——学术PPT制作和答辩技巧 | 今日哈工大 ： 哈尔滨工业大学校内综合信息网</title>
+    <link rel="stylesheet" media="all" href="/sites/today1.prod1.dpweb1.hit.edu.cn/files/css/css_TQ6QC5zJacvOyaO-Pi8NNR1w3BrzIg93V9N1DZBrnI8.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/hit_front/css/devel-tools/panels-ipe.css?rgrcgc" />
+<link rel="stylesheet" media="all" href="/sites/today1.prod1.dpweb1.hit.edu.cn/files/css/css_ZCffksEfGLxS2xyDgMKYiZknwMSANWY2hF_G_pCbON0.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/hit_front/css/style.css?rgrcgc" />
+<link rel="stylesheet" media="all" href="/sites/today1.prod1.dpweb1.hit.edu.cn/files/css/css_3c6vwXne105nYwgRpqkLvJ3QLMGJb7LQrx1iSzuodk0.css" />
+<link rel="stylesheet" media="all" href="/sites/today1.prod1.dpweb1.hit.edu.cn/files/css/css_Fmqpmwjc6HKF-rE7ST9dU3ITMGgMwVKqi9LH0xtFOFc.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/today1.prod1.dpweb1.hit.edu.cn/files/js/js_-FMdK-lG3dyu3_2eCQZ0GlFq7u5Am7WVC5NPJKWqnm4.js"></script>
+<![endif]-->
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+
+  </head>
+  <body class="workspace-live path-node page-node-type-event">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      跳转到主要内容
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+        <div id="main-navigation">
+                        <div class="container">
+            <div class="header-top">
+                <div class="region region-header-top">
+    <div id="block-hit-today-responsivemenumobileicon" data-block-plugin-id="responsive_menu_toggle" class="responsive-menu-toggle-wrapper responsive-menu-toggle block block-responsive-menu block-responsive-menu-toggle clearfix">
+  
+    
+
+      <a id="toggle-icon" class="toggle responsive-menu-toggle-icon" title="Menu" href="#off-canvas">
+  <span class="icon"></span><span class="label">菜单</span>
+</a>
+  </div>
+
+      <a class="logo" href="/" title="首页" rel="home">
+      <img class="visible-md-inline-block visible-lg-inline-block" src="/sites/today/themes/hit_today/logo.png" alt="首页"/>
+      <img class="hidden-lg hidden-md" src="/sites/today/themes/hit_today/logo-mobile.png" alt="">
+    </a>
+      <div id="block-toubutianqiqukuai" data-block-plugin-id="default_header_block" class="block block-core block-default-header-block clearfix">
+  
+    
+
+      <span data-boost-placeholder-id="callback=hit_misc.lazy_builder%3AbuildDefaultHeader&amp;&amp;token=hRBI6B8_mBplSk-Qq7PVQo5M5h23k7BgvZH9J8RrHXs"></span>
+  </div>
+
+
+  </div>
+
+            </div>
+          </div>
+                                      <div id="navbar" class="navbar">
+            <div class="container">
+                <div class="region region-navigation">
+    <div id="block-hit-today-horizontalmenu" data-block-plugin-id="responsive_menu_horizontal_menu" class="block block-responsive-menu block-responsive-menu-horizontal-menu clearfix">
+  
+    
+
+      <div class="responsive-menu-block-wrapper">
+  
+    
+          <ul id="horizontal-menu" class="clearfix">
+                            <li class="menu-item">
+        <a href="/" target="_self" rel="" data-drupal-link-system-path="&lt;front&gt;">首页</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/calendar/month" target="_self" rel="" class="hidden-xs" data-drupal-link-system-path="calendar/month">活动预报</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/departments" target="_self" rel="" data-drupal-link-system-path="node/835">院部导航</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/category/10" target="_self" rel="" data-drupal-link-system-path="taxonomy/term/10">公告公示</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/category/11" target="_self" rel="" data-drupal-link-system-path="taxonomy/term/11">新闻快讯</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/ranking">访问排行 </a>
+                  </li>
+                        <li class="menu-item">
+        <a href="http://space.hit.edu.cn" target="_self" rel="">空间服务</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="/search/complex" target="_self" rel="" data-drupal-link-system-path="search/complex">站内搜索</a>
+                  </li>
+                        <li class="menu-item">
+        <a href="http://today.hit.edu.cn/my/read">个人中心</a>
+                  </li>
+        </ul>
+
+  
+
+
+</div>
+
+  </div>
+
+
+  </div>
+
+            </div>
+          </div>
+                  </div>
+    
+              <div role="main" class="main-container container js-quickedit-main-content">
+                
+                
+                
+                
+        <div class="row">
+                    
+                      <a id="main-content"></a>
+            <div  class="col-sm-12">
+                                            <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div><span data-boost-placeholder-id="callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages&amp;args%5B0%5D=&amp;token=_AZ3AspTMq078QO9qahwtJ85a5oxfiI8sVz8o_s8szc"></span>  
+    
+
+  <div data-history-node-id="98091" class="node node--type-event node--view-mode-full clearfix node--promoted">
+  
+    
+
+  <div>
+    <div >
+
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="block-region-top">    <ol class="breadcrumb">
+          <li >
+                  <a href="/">首页</a>
+              </li>
+          <li >
+                  <a href="http://today.hit.edu.cn/department/25311">仪器科学与工程学院</a>
+              </li>
+          <li >
+                  <a href="/events?category=5">讲座报告</a>
+              </li>
+      </ol>
+
+</div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-12 col-md-8">
+      <div class="block-region-left"><div data-block-plugin-id="activites_tilte_block" class="block block-hit-article block-activites-tilte-block clearfix">
+  
+    
+
+      <div class="article-title activity-title">
+  <h3>讲座报告：【因斯图们交流会】仪器学院研究生微沙龙第三十八期活动——学术PPT制作和答辩技巧</h3>
+</div>
+<div class="activity-info">
+  <div class="row">
+    <div class="col-xs-12 col-md-7">
+      <div class="activity-info-media mobile-mb">
+        <img src="http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/default_images/default_486x268_0.jpg" alt="">
+        <div class="activity-info-misc">
+                      <div class="left-attr fa fa-tags second">
+                              <a href="/events?tags=%E4%BB%AA%E5%99%A8%E5%AD%A6%E9%99%A2" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="仪器学院">
+                  <span>仪器学院</span>
+                </a>
+                              <a href="/events?tags=%E7%A0%94%E7%A9%B6%E7%94%9F" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="研究生">
+                  <span>研究生</span>
+                </a>
+                              <a href="/events?tags=%E5%9B%A0%E6%96%AF%E5%9B%BE%E4%BB%AC%E4%BA%A4%E6%B5%81%E4%BC%9A" target="_blank" data-toggle="tooltip" data-placement="top" title="" data-original-title="因斯图们交流会">
+                  <span>因斯图们...</span>
+                </a>
+                          </div>
+                                <div class="pull-right">
+              <div class="fa fa-eye"><span data-boost-placeholder-id="callback=ccms_core.statistics_builder%3AbuildCount&amp;args%5B0%5D=node&amp;args%5B1%5D=98091&amp;token=V2tkp67OFovM_DSeP1AxyQXagHv3Teb1LBJ9u6OlZls"></span></div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+    <div class="col-xs-12 col-md-5">
+      <table class="table table-bordered table-striped table-responsive">
+        <tbody>
+                    <tr>
+            <td>时间</td>
+            <td>2022年09月30日 18:30 - 19:30</td>
+          </tr>
+          <tr>
+            <td>地点</td>
+            <td>一区活动中心珍妮咖啡厅</td>
+          </tr>
+          <tr>
+              <td>网址</td>
+            <td><a href=""></a></td>
+          </tr>
+        </tbody>
+      </table>
+          <span data-boost-placeholder-id="callback=flag.link_builder%3Abuild&amp;args%5B0%5D=node&amp;args%5B1%5D=98091&amp;args%5B2%5D=apply&amp;token=XU3aoqAJg4VeJFc04r2aE3BNUaJgc5Stl0cB3V0ocAc"></span>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+<div data-block-plugin-id="entity_field:node:body" class="block block-ctools-block block-entity-fieldnodebody clearfix">
+  
+    
+
+      
+            <div class="article-content field field--name-body field--type-text-with-summary field--label-hidden field--item"><p style="text-indent:20.0000pt; text-align:justify"><font face="等线">无论是学术会议、论文答辩、实验室组会还是工作面试，通常都需要学术人以</font><font face="等线">PTT的形式展示自己的研究。如何制作专业的PPT，做好学术报告呢？本期交流会我们邀请到了仪器学院常笛老师，为大家分享学术PPT制作和答辩技巧。欢迎大家来到本次交流会中，进行一次别开生面的交流探讨。</font></p>
+
+<p style="text-indent:20.0000pt; text-align:justify"><font face="等线">主讲人简介：常笛，哈尔滨工业大学仪器科学与工程学院助理教授。</font><font face="等线">2016、2022年在哈尔滨工业大学获得工学学士、博士学位。主要从事超精密光栅干涉位移测量研究，在该方向上发表学术论文8篇，授权中国专利3项。2019年获国家留学基金委资助，赴德国联邦物理技术研究院联合培养，2020年获哈尔滨工业大学第三届预留师资博士后资格。</font></p>
+<img alt="image 9945" data-entity-type="file" data-entity-uuid="03463904-618b-4c3c-90ed-b993d497ac80" height="221" src="/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image_9945.png" width="179" class="align-center" />
+<p style="text-align:justify"><font face="等线">时间：</font><font face="等线">2</font><font face="等线">022</font><font face="等线">年</font><font face="等线">9月3</font><font face="等线">0</font><font face="等线">日</font> <font face="等线">1</font><font face="等线">8</font><font face="等线">：</font><font face="等线">3</font><font face="等线">0-19</font><font face="等线">：</font><font face="等线">3</font><font face="等线">0</font></p>
+
+<p style="text-align:justify"><font face="等线">地点：一区活动中心</font> <font face="等线">珍妮咖啡厅</font></p>
+
+<p style="text-align:justify"><font face="等线">报名方式：成功提交问卷，视为报名成功。</font> <font face="等线">请扫描二维码或点击下方原文链接填写问卷进行报名。</font><font face="等线">名额有限，先到先得。</font></p>
+
+<p style="text-align:justify"><font face="等线">报名链接：</font><font face="等线">http://isewenjuan.mikecrm.com/EKvCC9e</font></p>
+<img alt="image 9944" data-entity-type="file" data-entity-uuid="606c1bc3-7669-4ef8-8dfa-12199d40aa16" height="185" src="/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image_9944.png" width="185" class="align-center" /><img alt="image 9947" data-entity-type="file" data-entity-uuid="c5418beb-6390-42c1-9e22-f12f5113a170" height="340" src="/sites/today1.prod1.dpweb1.hit.edu.cn/files/inline-images/%5Bdate%3Acustom%3AY%5D/%5Bdate%3Acustom%3Am%5D/%5Bdate%3Acustom%3Ad%5D/image_9947.png" width="241" class="align-center" /></div>
+      
+  </div>
+
+<div data-block-plugin-id="article_content_footer_block" class="block block-hit-article block-article-content-footer-block clearfix">
+  
+    
+
+        <div class="bottom_misc text-right">
+              <span>
+        发布：
+        <span>
+          赵冀宇
+        </span>
+      </span>
+              <span>
+        审核：
+        <span>
+                      张玉涛
+                  </span>
+      </span>
+              <span>
+        来源：<span>
+          <a href="/taxonomy/term/25311" target="_blank">仪器科学与工程学院</a>
+        </span>
+      </span>
+      </div>
+
+  </div>
+
+<div data-block-plugin-id="article_flag" class="block block-hit-article block-article-flag clearfix">
+  
+    
+
+      <span data-boost-placeholder-id="callback=hit_misc.link_builder%3Abuild&amp;args%5B0%5D=node&amp;args%5B1%5D=98091&amp;args%5B2%5D=recommend&amp;token=egIpzO6uHgx3utfcQqahTnsQgOtiMrQnBipqdqZ-NIw"></span>
+  </div>
+
+<div data-block-plugin-id="jia_this_block" class="block block-hit-article block-jia-this-block clearfix">
+  
+    
+
+      <div class="bshare-custom icon-medium-plus pull-right">
+  <a title="分享到QQ空间" class="bshare-qzone"></a>
+  <a title="分享到新浪微博" class="bshare-sinaminiblog"></a>
+  <a title="分享到微信" class="bshare-weixin"></a>
+  <p class="weichat-info">点击微信扫一扫</p>
+</div>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script>
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+
+  </div>
+
+<div data-block-plugin-id="node_erorr_comment" class="block block-hit-misc block-node-erorr-comment clearfix">
+  
+    
+
+      <span data-boost-placeholder-id="callback=hit_misc.lazy_builder%3AbuildErrorComment&amp;args%5B0%5D=98091&amp;token=nKSBFqZnFqakCE5TIEeExz53OpzUZljdYUy62TT_N8Y"></span>
+  </div>
+
+</div>
+      <div class="block-region-left-below"><div data-block-plugin-id="latest_reading_block" class="block block-hit-article block-latest-reading-block clearfix">
+  
+    
+
+        <div class="bg-default">
+    <!-- 标题 -->
+    <h4 class="block-title blue-title text-center">关联阅读</h4>
+    <!-- 主体 -->
+    <ul class="list cal-list">
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98327" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="仪器学院组织团员青年观看烈士纪念日向人民英雄敬献花篮仪式">仪器学院组织团员青年观看烈士纪念日向人民英雄敬献花篮仪式</a>
+            <div class="list-left-below">仪器学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98323" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="【初心讲堂】《共筑和谐导学关系—论研究生培养中的心理议题》云课堂活动预告">【初心讲堂】《共筑和谐导学关系—论研究生培养中的心理议题》云课堂活动预告</a>
+            <div class="list-left-below">仪器学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98317" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="航天学院飞行器动力学与控制研究生党支部召开“保密知识教育”主题党日活动">航天学院飞行器动力学与控制研究生党支部召开“保密知识教育”主题党日活动</a>
+            <div class="list-left-below">航天学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98271" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="2022级“政青春”理论宣讲团开展发声与仪态培训">2022级“政青春”理论宣讲团开展发声与仪态培训</a>
+            <div class="list-left-below">马克思院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/01/98258" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="航天学院2022年秋季学期责任教授团队兼职辅导员工作会圆满结束">航天学院2022年秋季学期责任教授团队兼职辅导员工作会圆满结束</a>
+            <div class="list-left-below">航天学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/10/01/98246" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="仪器学院关于开展“喜迎二十大，青春心向党，奋斗新征程”国庆系列活动的通知">仪器学院关于开展“喜迎二十大，青春心向党，奋斗新征程”国庆系列活动的通知</a>
+            <div class="list-left-below">仪器学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/09/30/98244" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="仪器学院关于开展“喜迎二十大，奋进新征程” 党支部创新工作立项的通知">仪器学院关于开展“喜迎二十大，奋进新征程” 党支部创新工作立项的通知</a>
+            <div class="list-left-below">仪器学院</div>
+          </div>
+        </li>
+              <li>
+          <div class="info">
+            <!-- 文字需要限制长度 -->
+            <a href="http://today.hit.edu.cn/article/2022/09/30/98237" target="_blank" data-container='body' data-toggle="tooltip" data-placement="right" title="【喜迎二十大，建功新征程】研究生院党支部党课专题学习《习近平谈治国理政》第四卷">【喜迎二十大，建功新征程】研究生院党支部党课专题学习《习近平谈治国理政》第四卷</a>
+            <div class="list-left-below">研究生院</div>
+          </div>
+        </li>
+          </ul>
+  </div>
+  <div class="spacer-md-sm"></div>
+
+  </div>
+
+</div>
+    </div>
+
+    <div class="col-sm-12 col-md-4">
+      <div class="block-region-right"><div data-block-plugin-id="activites_sidebar_block" class="block block-hit-article block-activites-sidebar-block clearfix">
+  
+    
+
+      <div class=" visible-xs  visible-sm  visible-md  visible-lg ">
+  <!-- 标题 -->
+  <h2 class="block-title rm-border-top rm-padding mb-20">
+    <i class="fa fa-flag green fa-fw" aria-hidden="true"></i>活动预报</h2>
+  <!-- 主体 -->
+  <ul class="list list-date">
+          <li class="bg-white">
+          <div class="top-title text-center green">2022<div>09-26</div></div>
+          <div class="list-date-content">
+            <div class="list-date-header clearfix">
+              <a href="http://today.hit.edu.cn/event/2022/09/26/97949" target="_blank" class="text-ellipsis">【Mathtalk学术微沙龙|第19期】“研究生科研与生活”交流分享会</a>
+            </div>
+            <div class="list-date-footer text-center">
+              <a href="http://today.hit.edu.cn/department/58" target="_blank"><span class="pull-left">数学学院</span></a>
+              <span class="time pull-right ml-5">15:00</span>
+              <span class="address" data-toggle="tooltip" data-placement="bottom" title="理学楼308">理学楼308</span>
+            </div>
+          </div>
+        </li>
+          <li class="bg-white">
+          <div class="top-title text-center green">2022<div>09-28</div></div>
+          <div class="list-date-content">
+            <div class="list-date-header clearfix">
+              <a href="http://today.hit.edu.cn/event/2022/09/26/97945" target="_blank" class="text-ellipsis">【Career讲坛|求职指导系列】“选调生就业专场”讲座预告</a>
+            </div>
+            <div class="list-date-footer text-center">
+              <a href="http://today.hit.edu.cn/department/74" target="_blank"><span class="pull-left">学工处 </span></a>
+              <span class="time pull-right ml-5">18:30</span>
+              <span class="address" data-toggle="tooltip" data-placement="bottom" title="腾讯会议：127 698 679 会议密码：0928">腾讯会议：127 698 679 会议密码：0928</span>
+            </div>
+          </div>
+        </li>
+          <li class="bg-white">
+          <div class="top-title text-center green">2022<div>09-30</div></div>
+          <div class="list-date-content">
+            <div class="list-date-header clearfix">
+              <a href="http://today.hit.edu.cn/event/2022/09/27/98029" target="_blank" class="text-ellipsis">【Career讲坛|求职指导系列】“就业过程中的合约权益”讲座预告</a>
+            </div>
+            <div class="list-date-footer text-center">
+              <a href="http://today.hit.edu.cn/department/74" target="_blank"><span class="pull-left">学工处 </span></a>
+              <span class="time pull-right ml-5">18:30</span>
+              <span class="address" data-toggle="tooltip" data-placement="bottom" title="腾讯会议：644 341 617  会议密码：0930">腾讯会议：644 341 617  会议密码：0930</span>
+            </div>
+          </div>
+        </li>
+          <li class="bg-white">
+          <div class="top-title text-center green">2022<div>09-30</div></div>
+          <div class="list-date-content">
+            <div class="list-date-header clearfix">
+              <a href="http://today.hit.edu.cn/event/2022/09/28/98091" target="_blank" class="text-ellipsis">【因斯图们交流会】仪器学院研究生微沙龙第三十八期活动——学术PPT制作和答辩技巧</a>
+            </div>
+            <div class="list-date-footer text-center">
+              <a href="http://today.hit.edu.cn/department/25311" target="_blank"><span class="pull-left">仪器学院</span></a>
+              <span class="time pull-right ml-5">18:30</span>
+              <span class="address" data-toggle="tooltip" data-placement="bottom" title="一区活动中心珍妮咖啡厅">一区活动中心珍妮咖啡厅</span>
+            </div>
+          </div>
+        </li>
+          <li class="bg-white">
+          <div class="top-title text-center green">2022<div>09-30</div></div>
+          <div class="list-date-content">
+            <div class="list-date-header clearfix">
+              <a href="http://today.hit.edu.cn/event/2022/09/30/98193" target="_blank" class="text-ellipsis">德国奥登堡大学Marit Lahme博士讲座</a>
+            </div>
+            <div class="list-date-footer text-center">
+              <a href="http://today.hit.edu.cn/department/87" target="_blank"><span class="pull-left">航天学院</span></a>
+              <span class="time pull-right ml-5">19:00</span>
+              <span class="address" data-toggle="tooltip" data-placement="bottom" title="Zoom会议室ID: 811 2727 3239 ">Zoom会议室ID: 811 2727 3239 </span>
+            </div>
+          </div>
+        </li>
+      </ul>
+</div>
+  <div class="spacer-md-sm"></div>
+
+  </div>
+
+<div data-block-plugin-id="web_recommend_block" class="block block-hit-article block-web-recommend-block clearfix">
+  
+    
+
+        <div class="bg-white one-list-v1 list-first  visible-xs  visible-sm  visible-md  visible-lg ">
+    <h4 class="list-header list-header-v1 clearfix block-title-blue">
+      <div class="en">recommendation</div>
+      <div class="title">网站推荐</div>
+        <a class="link more-link-v1" href="http://today.hit.edu.cn/web-recommend" target="_blank" data-container="body" data-toggle="tooltip" data-placement="top" title="更多">更多</a>
+    </h4>
+    <ul class="list-item p-right-lg clearfix">
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="【哈工大之秋|环校·能量跑】关于举办“喜迎二十大 奋进新征程”环校·能量跑活动的通知">
+          <span class="item-right dark">
+                      <a href="/taxonomy/term/92" target="_blank">团委</a> 10412                  </span>
+        <span class="item-left">
+          <a href="http://today.hit.edu.cn/article/2022/09/28/98112" target="_blank">【哈工大之秋|环校·能量跑】关于举办“喜迎二十大 奋进新征程”环校·能量跑活动的通知</a>
+        </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="“小咬”问题温馨提示">
+          <span class="item-right dark">
+                      <a href="/taxonomy/term/90" target="_blank">后勤集团</a> 8545                  </span>
+        <span class="item-left">
+          <a href="http://today.hit.edu.cn/article/2022/09/27/98002" target="_blank">“小咬”问题温馨提示</a>
+        </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="关于2022年度宝钢教育奖优秀学生奖评选工作的通知">
+          <span class="item-right dark">
+                      <a href="/taxonomy/term/74" target="_blank">学工处 </a> 6617                  </span>
+        <span class="item-left">
+          <a href="http://today.hit.edu.cn/article/2022/09/28/98074" target="_blank">关于2022年度宝钢教育奖优秀学生奖评选工作的通知</a>
+        </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="关于举办“喜迎二十大 逐梦耀青春”哈尔滨工业大学2022年国庆节迎新文艺晚会的通知">
+          <span class="item-right dark">
+                      <a href="/taxonomy/term/92" target="_blank">团委</a> 4151                  </span>
+        <span class="item-left">
+          <a href="http://today.hit.edu.cn/article/2022/09/30/98201" target="_blank">关于举办“喜迎二十大 逐梦耀青春”哈尔滨工业大学2022年国庆节迎新文艺晚会的通知</a>
+        </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="关于2022年本科生国家奖学金、国家励志奖学金、国家助学金评选工作的通知">
+          <span class="item-right dark">
+                      <a href="/taxonomy/term/74" target="_blank">学工处 </a> 3498                  </span>
+        <span class="item-left">
+          <a href="http://today.hit.edu.cn/article/2022/09/27/98061" target="_blank">关于2022年本科生国家奖学金、国家励志奖学金、国家助学金评选工作的通知</a>
+        </span>
+        </li>
+          </ul>
+  </div>
+  <div class="spacer-md-sm"></div>
+
+  </div>
+
+<div data-block-plugin-id="recommend_block" class="block block-hit-article block-recommend-block clearfix">
+  
+    
+
+        <div class="bg-white one-list-v1  visible-xs  visible-sm  visible-md  visible-lg ">
+    <h4 class="list-header list-header-v1 clearfix block-title-blue">
+      <div class="en">recommendation</div>
+      <div class="title">读者推荐</div>
+      <a class="link more-link-v1" href="http://today.hit.edu.cn/ranking" target="_blank" data-container="body" data-toggle="tooltip" data-placement="top" title="更多">更多</a>
+    </h4>
+    <ul class="list-item clearfix">
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="哈尔滨工业大学领导人员任职公告">
+                    <span class="item-right" style="margin-right:0">
+              <i class="fa fa-thumbs-up"></i>
+              7
+          </span>
+                    <span class="item-left">
+            <a href="http://today.hit.edu.cn/article/2022/10/01/98259" target="_blank">哈尔滨工业大学领导人员任职公告</a>
+          </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="【探索未来】未来技术讲坛（第1期）活动预告：韩杰才院士主题讲座">
+                    <span class="item-right" style="margin-right:0">
+              <i class="fa fa-thumbs-up"></i>
+              6
+          </span>
+                    <span class="item-left">
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98302" target="_blank">【探索未来】未来技术讲坛（第1期）活动预告：韩杰才院士主题讲座</a>
+          </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="【卓越讲堂第2期】卓越工程师学院校企文化（郑州专项）之中国电子科技集团公司第二十七研究所">
+                    <span class="item-right" style="margin-right:0">
+              <i class="fa fa-thumbs-up"></i>
+              5
+          </span>
+                    <span class="item-left">
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98309" target="_blank">【卓越讲堂第2期】卓越工程师学院校企文化（郑州专项）之中国电子科技集团公司第二十七研究所</a>
+          </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="2022秋季学期学生组织与学生社团统一招新成功举办">
+                    <span class="item-right" style="margin-right:0">
+              <i class="fa fa-thumbs-up"></i>
+              4
+          </span>
+                    <span class="item-left">
+            <a href="http://today.hit.edu.cn/article/2022/10/03/98328" target="_blank">2022秋季学期学生组织与学生社团统一招新成功举办</a>
+          </span>
+        </li>
+              <li data-container="body" data-toggle="tooltip" data-placement="right" title="数学学院成功举办第二届“青春杯”篮球赛">
+                    <span class="item-right" style="margin-right:0">
+              <i class="fa fa-thumbs-up"></i>
+              3
+          </span>
+                    <span class="item-left">
+            <a href="http://today.hit.edu.cn/article/2022/10/02/98260" target="_blank">数学学院成功举办第二届“青春杯”篮球赛</a>
+          </span>
+        </li>
+          </ul>
+  </div>
+  <div class="spacer-md-sm"></div>
+
+  </div>
+
+<div data-block-plugin-id="latest_release_block" class="block block-hit-article block-latest-release-block clearfix">
+  
+    
+
+      <div class="bg-white one-list ">
+  <h4 class="block-title block-title-orange rm-margin pl-10">
+    <i class="fa fa-file-text mr-5" aria-hidden="true"></i>最新发布
+    <div class="more-link form-group right-link">
+      <a href="/articles" target="_blank">更多</a>
+    </div>
+  </h4>
+  <ul class="list list-tooltip">
+            <li>
+        <span class="list-right-below pull-right ml-30">2022-10-03</span>
+        <span class="clearfix top">
+          <a href="http://today.hit.edu.cn/article/2022/10/03/98335" target="_blank" data-container="body" data-toggle="tooltip" data-placement="right" title="【探索未来】“对化未来”主题沙龙（第1期）通知">【探索未来】“对化未来”主题沙龙（第1期）通知</a>
+        </span>
+      </li>
+            <li>
+        <span class="list-right-below pull-right ml-30">2022-10-03</span>
+        <span class="clearfix top">
+          <a href="http://today.hit.edu.cn/article/2022/10/03/98334" target="_blank" data-container="body" data-toggle="tooltip" data-placement="right" title="2022年哈工大“八百壮士”精神宣讲会第二期预告">2022年哈工大“八百壮士”精神宣讲会第二期预告</a>
+        </span>
+      </li>
+            <li>
+        <span class="list-right-below pull-right ml-30">2022-10-03</span>
+        <span class="clearfix top">
+          <a href="http://today.hit.edu.cn/article/2022/10/03/98332" target="_blank" data-container="body" data-toggle="tooltip" data-placement="right" title="计算学部2020级本科生成功举办“重读入党申请，重温入党初心”活动">计算学部2020级本科生成功举办“重读入党申请，重温入党初心”活动</a>
+        </span>
+      </li>
+            <li>
+        <span class="list-right-below pull-right ml-30">2022-10-03</span>
+        <span class="clearfix top">
+          <a href="http://today.hit.edu.cn/article/2022/10/03/98333" target="_blank" data-container="body" data-toggle="tooltip" data-placement="right" title="生命科学与技术学院团委组织各团支部收看烈士纪念日向人民英雄敬献花篮仪式">生命科学与技术学院团委组织各团支部收看烈士纪念日向人民英雄敬献花篮仪式</a>
+        </span>
+      </li>
+            <li>
+        <span class="list-right-below pull-right ml-30">2022-10-03</span>
+        <span class="clearfix top">
+          <a href="http://today.hit.edu.cn/article/2022/10/03/98331" target="_blank" data-container="body" data-toggle="tooltip" data-placement="right" title="【喜迎二十大 奋进新征程】化工与化学学院成功开展第二届“百年党史通关跑”活动">【喜迎二十大 奋进新征程】化工与化学学院成功开展第二届“百年党史通关跑”活动</a>
+        </span>
+      </li>
+        </ul>
+</div>
+  <div class="spacer-md-sm"></div>
+
+  </div>
+
+</div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</div>
+
+
+  </div>
+
+            </div>
+          
+                            </div>
+      </div>
+                      <div class="footer holder">
+          <div class="container">
+            <div class="row">
+                <div class="region region-footer">
+    <div class="col-xs-12 col-md-4">
+      <div class="copyright text-left visible-lg-block visible-md-block">
+          
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p><img alt="logo" data-entity-type="file" data-entity-uuid="b1f71bb0-0ee3-4fca-ba43-58a30873d203" src="/sites/today/files/inline-images/logo-mobile.png" /></p>
+</div>
+      
+              <div class="copyright-info">
+                <p>版权所有：哈尔滨工业大学 ©2001-2020</p>
+                <p>技术支持：哈尔滨工业大学网络与信息中心</p>
+              </div>
+        </div>
+  </div>
+<div class="col-xs-12 col-md-6">
+              <div class="hotlink">
+                    <div class="item-link">
+              <h4 class="fa fa-angle-down">相关链接</h4>
+            <ul>
+                              <li><a href="http://wsfwzx.hit.edu.cn/common/casLogin?params=L3dzZnd6eC9md3NxL2Z3eHE/ZndkeWlkPWUyNTBhNTVlYWYyYTRmOGE4NGU5ZmU5Y2UwM2I2NmQ2">发文权限申请及信息变更</a></li>
+                              <li><a href="http://ids.hit.edu.cn/authserver/index.do">统一身份认证管理</a></li>
+                              <li><a href="http://mytoday.hit.edu.cn/caslogin">校园网内登录</a></li>
+                              <li><a href="http://mytoday-hit-edu-cn.ivpn.hit.edu.cn:1080/caslogin">校园网外登录</a></li>
+                          </ul>
+          </div>
+                     <div class="item-link">
+              <h4 class="fa fa-angle-down">相关服务</h4>
+            <ul>
+                              <li><a href="http://myweb.hit.edu.cn">站群系统</a></li>
+                              <li><a href="http://hitmeeting.hit.edu.cn">学术会议平台</a></li>
+                              <li><a href="http://homepage.hit.edu.cn/">教师个人主页</a></li>
+                              <li><a href="http://i.hit.edu.cn/">校内门户</a></li>
+                          </ul>
+          </div>
+                     <div class="item-link">
+              <h4 class="fa fa-angle-down">相关站点</h4>
+            <ul>
+                              <li><a href="http://www.hit.edu.cn/">哈工大主页</a></li>
+                              <li><a href="http://news.hit.edu.cn/">哈工大新闻网</a></li>
+                              <li><a href="http://www.lib.hit.edu.cn/">哈工大图书馆</a></li>
+                              <li><a href="http://ito.hit.edu.cn">哈工大网络与信息中心</a></li>
+                          </ul>
+          </div>
+                   </div>
+      </div>
+<div id="block-contact-logo" data-block-plugin-id="contact_block" class="col-xs-12 col-md-2 block block-hit-manage block-contact-block clearfix">
+  
+    
+
+      <div class="text-center">
+    <div class="wechat text-right">
+    <h3 class="text-left">关注我们</h3>
+    <img src="http://today.hit.edu.cn/sites/today1.prod1.dpweb1.hit.edu.cn/files/styles/medium/public/images/2018-05/wechat.png?itok=-AdJT00-"/>
+  </div>
+  </div>
+  </div>
+
+
+  </div>
+
+            </div>
+          </div>
+                                <div class="region region-copyright">
+    <div id="block-copyrightblock" data-block-plugin-id="CopyrightBlock" class="block block-hit-manage block-copyrightblock clearfix">
+  
+    
+
+      <div class="bottom-c">
+    <p>版权所有：哈尔滨工业大学 ©2001-2020</p>
+    <p>技术支持：哈尔滨工业大学网络与信息中心</p>
+  </div>
+
+  </div>
+
+
+  </div>
+
+                 </div>
+            </div>
+</div>
+
+  </div>
+
+    <div class="off-canvas-wrapper"><div id="off-canvas">
+              <ul>
+              <li class="menu-item--_02ac5a8-2952-4918-b160-5c43ae434847">
+        <a href="/" target="_self" rel="" data-drupal-link-system-path="&lt;front&gt;">首页</a>
+              </li>
+          <li class="menu-item--_0fef472-1c49-45ef-8f62-e8d05856ac5f">
+        <a href="/calendar/month" target="_self" rel="" class="hidden-xs" data-drupal-link-system-path="calendar/month">活动预报</a>
+              </li>
+          <li class="menu-item--_2072675-c30f-4c19-94c6-34489b859815">
+        <a href="/departments" target="_self" rel="" data-drupal-link-system-path="node/835">院部导航</a>
+              </li>
+          <li class="menu-item--f4844517-f234-462a-a4f7-81a63f36a5b4">
+        <a href="/category/10" target="_self" rel="" data-drupal-link-system-path="taxonomy/term/10">公告公示</a>
+              </li>
+          <li class="menu-item--_70e2c74-f893-4ebd-ad7d-6fec40e46381">
+        <a href="/category/11" target="_self" rel="" data-drupal-link-system-path="taxonomy/term/11">新闻快讯</a>
+              </li>
+          <li class="menu-item--e6ab49b7-8b71-435a-a498-3ac5ffbeef4b">
+        <a href="/ranking" target="_self" rel="" data-drupal-link-system-path="node/842">访问排行</a>
+                                <ul>
+              <li class="menu-item--_9f43982-e915-4342-8e41-9c888d70853b">
+        <span target="_self" rel="" class="fa fa-bar-chart">访问排行</span>
+                                <ul>
+              <li class="menu-item--ed3c63ed-79a2-4d5f-a858-00e404f4ea4c">
+        <a href="/ranking" target="_self" rel="" data-drupal-link-system-path="node/842">推荐排行</a>
+              </li>
+          <li class="menu-item--_520e2f9-7567-4141-9734-fe45e5c42371">
+        <a href="/reading-ranking" target="_self" rel="" data-drupal-link-system-path="node/838">阅读排行</a>
+              </li>
+          <li class="menu-item--_d408902-418e-4985-8040-e1db6041fbcc">
+        <a href="/web-recommend" target="_self" rel="" data-drupal-link-system-path="node/834">网站推荐历史</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--_6c4e37a-1554-4459-8711-b06803d94008">
+        <span target="_self" rel="" class="fa fa-bar-chart">信息数排行</span>
+                                <ul>
+              <li class="menu-item--_3fef3cc-0175-47ae-ab4f-915ac842626b">
+        <a href="/department-ranking" target="_self" rel="" data-drupal-link-system-path="node/840">院部信息数</a>
+              </li>
+          <li class="menu-item--_131ccd8-5ccd-464b-b0df-da75a3d985c6">
+        <a href="/category-ranking" target="_self" rel="" data-drupal-link-system-path="node/839">类别信息数</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+          <li class="menu-item--f06566c7-020c-4b8e-94b3-86cbc4628c0a">
+        <a href="http://space.hit.edu.cn" target="_self" rel="">空间服务</a>
+              </li>
+          <li class="menu-item--_0f7928f-d124-446f-89d8-37dc6fc71b67">
+        <a href="/search/complex" target="_self" rel="" data-drupal-link-system-path="search/complex">站内搜索</a>
+              </li>
+          <li class="menu-item--a7ca6ddb-8ab2-4382-8676-333a57ee5906">
+        <a href="http://today.hit.edu.cn/my/read">个人中心</a>
+              </li>
+        </ul>
+  
+
+</div></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/98091","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"zh-hans"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/zhanneisousuo,boost\/boost,calendar\/calendar.theme,ckeditor_indentblock\/indentblock,classy\/file,dyniva_private_message\/style,dyniva_prompt_message\/force,fontawesome\/fontawesome,hit_front\/DirectionAwareHoverEffect,hit_front\/awarehover,hit_front\/bootstrap-scripts,hit_front\/calendar,hit_front\/clamp,hit_front\/custom-js,hit_front\/devel-tools,hit_front\/expander,hit_front\/fixIE,hit_front\/global-styling,hit_front\/history,hit_front\/ie-alert-master,hit_front\/lity,hit_front\/masonry,hit_front\/offcanvas,hit_front\/prettify,hit_front\/prognroll,hit_front\/selectric,hit_front\/slick,hit_front\/wow,hit_today\/custom-js,hit_today\/global-styling,responsive_menu\/responsive_menu.breakpoint,responsive_menu\/responsive_menu.config,responsive_menu\/responsive_menu.styling,statistics\/drupal.statistics,system\/base","theme":"hit_today","theme_token":null},"ajaxTrustedUrl":[],"boostPlaceholderIds":{"callback=hit_misc.lazy_builder%3AbuildErrorComment\u0026args%5B0%5D=98091\u0026token=nKSBFqZnFqakCE5TIEeExz53OpzUZljdYUy62TT_N8Y":true,"callback=hit_misc.link_builder%3Abuild\u0026args%5B0%5D=node\u0026args%5B1%5D=98091\u0026args%5B2%5D=recommend\u0026token=egIpzO6uHgx3utfcQqahTnsQgOtiMrQnBipqdqZ-NIw":true,"callback=flag.link_builder%3Abuild\u0026args%5B0%5D=node\u0026args%5B1%5D=98091\u0026args%5B2%5D=apply\u0026token=XU3aoqAJg4VeJFc04r2aE3BNUaJgc5Stl0cB3V0ocAc":true,"callback=ccms_core.statistics_builder%3AbuildCount\u0026args%5B0%5D=node\u0026args%5B1%5D=98091\u0026token=V2tkp67OFovM_DSeP1AxyQXagHv3Teb1LBJ9u6OlZls":true,"callback=Drupal%5CCore%5CRender%5CElement%5CStatusMessages%3A%3ArenderMessages\u0026args%5B0%5D=\u0026token=_AZ3AspTMq078QO9qahwtJ85a5oxfiI8sVz8o_s8szc":true,"callback=hit_misc.lazy_builder%3AbuildDefaultHeader\u0026\u0026token=hRBI6B8_mBplSk-Qq7PVQo5M5h23k7BgvZH9J8RrHXs":true},"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim","modifyViewport":true,"use_bootstrap":false,"breakpoint":"(min-width: 960px)","drag":false,"mediaQuery":"(min-width: 960px)"},"statistics":{"data":{"nid":"98091"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajax":[],"user":{"uid":0,"permissionsHash":"eb6f80ed793d9da2be6202508aee15f43f34d4ff99a780cf05c852f40b8841c8"}}</script>
+<script src="/sites/today1.prod1.dpweb1.hit.edu.cn/files/js/js_Vp7h6cqYZVjYPuSxWi9PJqnNUFC-UX2vNhxQcVk50mE.js"></script>
+
+  </body>
+</html>
+
+    <!-- block_content:12, block_content:13, block_content:14, block_content:3, block_content_view, block_view, block_view:activites_sidebar_block, block_view:activites_tilte_block, block_view:article_content_footer_block, block_view:article_flag, block_view:block_content, block_view:block_content:50940d8e-da51-4667-9017-142b52037afd, block_view:contact_block, block_view:default_header_block, block_view:entity_field, block_view:entity_field:node:body, block_view:jia_this_block, block_view:latest_reading_block, block_view:latest_release_block, block_view:node_erorr_comment, block_view:recommend_block, block_view:responsive_menu_horizontal_menu, block_view:responsive_menu_toggle, block_view:system_branding_block, block_view:system_breadcrumb_block, block_view:system_menu_block, block_view:system_menu_block:footer, block_view:web_recommend_block, config:asset_injector.css.zhanneisousuo, config:block.block.10rineiremenbiaoqianqian20biaoti, config:block.block.30rineiremenbiaoqianqian100biaoti, config:block.block.contact_logo, config:block.block.copyrightblock, config:block.block.duzhetuijianqukuai, config:block.block.frontuserinfoblock, config:block.block.frontusermenublock, config:block.block.gerenzhongxin, config:block.block.headlogoblock, config:block.block.hit_today_foot_logo, config:block.block.hit_today_footer_link, config:block.block.hit_today_horizontalmenu, config:block.block.hit_today_local_task, config:block.block.hit_today_mainpagecontent, config:block.block.hit_today_pagetitle, config:block.block.hit_today_responsivemenumobileicon, config:block.block.hit_today_sitebranding, config:block.block.horizontalmenu, config:block.block.jinqihuodongbianlanqukuai, config:block.block.messages, config:block.block.siteinfoblock, config:block.block.taxonomydepartmentheader, config:block.block.taxonomyheader, config:block.block.toubutianqiqukuai, config:block.block.views_block__front_article_block_10, config:block.block.views_block__front_article_block_11, config:block.block.zuixinfabuqukuai, config:block_list, config:ccms_manage.site_info_config, config:color.theme.hit_today, config:core.entity_view_display.block_content.basic.default, config:filter.format.basic_html, config:google_analytics.settings, config:system.menu.footer, config:system.menu.main, config:system.site, config:user.role.anonymous, horizontal_menu, http_response, node:98091, offcanvas_render, panelizer_default:node:event:full, panelizer_default:node:event:full:default, rendered, taxonomy_term:10, taxonomy_term:11, user:0, workspace:1 -->
+    <!-- 2022-10-03 20:29:52 -->
+    

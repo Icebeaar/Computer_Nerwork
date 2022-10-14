@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Content-Type: text/css
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Tue, 04 Oct 2022 11:19:57 GMT
+Server: Server
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-encoding
+Last-Modified: Thu, 28 Apr 2022 11:43:49 GMT
+X-Varnish: 603380778 604520419
+Age: 1
+Via: 1.1 varnish-v4
+ETag: W/"109-5ddb57082280c"
+X-Varnish-Cache: HIT
+Accept-Ranges: bytes
+
+282
+#views-exposed-form-search-api-content-events [for="edit-sort-by"],#views-exposed-form-search-api-content-articles [for="edit-sort-by"],#views-exposed-form-search-api-content-complex [for="edit-sort-by"]{color:red;}#views-exposed-form-search-api-content-events .form-item-sort-by .select-wrapper:after,#views-exposed-form-search-api-content-articles .form-item-sort-by .select-wrapper:after,#views-exposed-form-search-api-content-complex .form-item-sort-by .select-wrapper:after{content:'请在此修改结果集显示方式';display:inline-block;margin-left:10px;color:red;}#views-exposed-form-search-api-content-complex{padding:15px 60px;}
+
+0
+

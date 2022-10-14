@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65823225-0eed-483c-b2c4-1829e8221c9e" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/doc/120L021809刘雨尘-Lab1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/doc/120L021809刘雨尘-Lab1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/lib/junit-4.13-beta-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/lib/org.ops4j.pax.tipi.hamcrest.core-1.3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/rules/RulesOf6005.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/rules/RulesOf6005Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/Action$ActionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/DrawableTurtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/LineSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/PenColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/Turtle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/TurtleGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/TurtleGUI$AnimationThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/TurtleGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/TurtleSoup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P2/turtle/TurtleSoupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P3/FriendshipGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/production/Lab1/P3/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/out/test/Lab1/P3/FriendshipGraphTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/MagicSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P1/txt/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/rules/RulesOf6005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/rules/RulesOf6005Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/DrawableTurtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/LineSegment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/PenColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/Turtle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/TurtleGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/TurtleSoup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P2/turtle/TurtleSoupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P3/FriendshipGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/src/P3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-120L021809刘雨尘/test/P3/FriendshipGraphTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2FXFANhzhyzX9gGLDwTaqrME3FL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\javacode\SC\CInternet\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="未命名" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CInternet" />
+      <module name="Proxy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="65823225-0eed-483c-b2c4-1829e8221c9e" name="变更" comment="" />
+      <created>1664630383346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664630383346</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

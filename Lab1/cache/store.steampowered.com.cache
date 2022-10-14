@@ -1,0 +1,10 @@
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 216
+Expires: Tue, 04 Oct 2022 17:51:12 GMT
+Date: Tue, 04 Oct 2022 17:51:12 GMT
+Connection: close
+
+<HTM

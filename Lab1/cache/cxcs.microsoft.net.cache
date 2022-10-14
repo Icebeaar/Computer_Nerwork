@@ -1,0 +1,17 @@
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 215
+Expires: Tue, 04 Oct 2022 11:05:26 GMT
+Date: Tue, 04 Oct 2022 11:05:26 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Bad Request</TITLE>
+</HEAD><BODY>
+<H1>Bad Request</H1>
+Your browser sent a request that this server could not understand.<P>
+Reference&#32;&#35;7&#46;f965468&#46;1664881526&#46;0
+</BODY>
+</HTML>

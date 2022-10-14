@@ -1,0 +1,16 @@
+HTTP/1.1 501 Not Implemented
+Content-Type: text/html; charset=UTF-8
+Content-Length: 104
+Date: Tue, 04 Oct 2022 17:50:19 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache,must-revalidate
+Pragma: no-cache
+
+<html>
+<head>
+<title>501 Not Implemented</title>
+</head>
+<body>
+<h1>Not Implemented</h1>
+</body>
+</html>

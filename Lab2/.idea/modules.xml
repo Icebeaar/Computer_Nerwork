@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GBN-protocol/GBN-protocol.iml" filepath="$PROJECT_DIR$/GBN-protocol/GBN-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Protocol-lab2.iml" filepath="$PROJECT_DIR$/Protocol-lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SR-protocol/SR-protocol.iml" filepath="$PROJECT_DIR$/SR-protocol/SR-protocol.iml" />
+    </modules>
+  </component>
+</project>

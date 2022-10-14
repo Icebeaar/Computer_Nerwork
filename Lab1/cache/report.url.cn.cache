@@ -1,0 +1,14 @@
+HTTP/1.1 400 Bad Request
+Server: stgw
+Date: Tue, 04 Oct 2022 11:15:01 GMT
+Content-Type: text/html
+Content-Length: 149
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body>
+<center><h1>400 Bad Request</h1></center>
+<hr><center>stgw</center>
+</body>
+</html>
